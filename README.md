@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/anurawat01/anurawat01/tenor.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/anurawat01/anurawat01/master/wave.gif" width="30px">
 
 
 My name is Anubhav Rawat and I'm a third-year student pursuing B.Tech in Information Technology . I'm a Full Stack Web Developer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
