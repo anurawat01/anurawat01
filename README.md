@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/anurawat01/anurawat01/master/tenor.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/anurawat01/anurawat01/main/tenor.gif" width="30px">
 
 
 
