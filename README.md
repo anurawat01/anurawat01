@@ -1,7 +1,20 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/anurawat01/anurawat01/master/wave.gif" width="30px">
+# Hey, folks! <img src="https://raw.githubusercontent.com/anurawat01/anurawat01/master/wave.gif" width="30px">
 
 
-My name is Anubhav Rawat and I'm a third-year student pursuing B.Tech in Information Technology . I'm a Full Stack Web Developer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Anubhav Rawat and I'm a third-year student pursuing B.Tech in Information Technology .<br/> 
+✔ Competitive Programmer. <br/>
+✔ I'm a Full Stack Web Developer. <br/>
+✔ I have done an internship as Web_Developer @WorkLinkr. <br/>
+
+
+## Connect with me:
+  <p>
+  <a href="https://www.linkedin.com/in/anubhavrawat7/" > <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Anubhav46755120" ><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+  <a href="anubhavrawat62@gmail.com" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+
+
 
 
 ## Tool & Technology
@@ -61,9 +74,7 @@ My name is Anubhav Rawat and I'm a third-year student pursuing B.Tech in Informa
 <a href="https://github.com/anurawat01/anurawat01">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anurawat01&title_color=ffffff&repo=college_project&show_owner=true&bg_color=1d1f21&text_color=c9cacc" >
 </a>
-<a href="https://github.com/anurawat01/anurawat01">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anurawat01&title_color=ffffff&repo=React_project s&show_owner=true&bg_color=1d1f21&text_color=c9cacc" >
-</a>
+
 
 
 
