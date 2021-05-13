@@ -2,9 +2,7 @@
 
 
 My name is Anubhav Rawat and I'm a third-year student pursuing B.Tech in Information Technology .<br/> 
-✔ Competitive Programmer. <br/>
-✔ I'm a Full Stack Web Developer. <br/>
-✔ I have done an internship as Web_Developer @WorkLinkr. <br/>
+Competitive Programmer || Full Stack Web Developer || Interned as Web_Developer @WorkLinkr
 
 
 ## Connect with me:
@@ -14,10 +12,12 @@ My name is Anubhav Rawat and I'm a third-year student pursuing B.Tech in Informa
   <a href="anubhavrawat62@gmail.com" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
+![x](https://komarev.com/ghpvc/?username=anurawat01&label=PROFILE+VIEWS)
 
 
 
-## Tool & Technology
+
+## 🛠️ Tool & Technology
 
 <p>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
