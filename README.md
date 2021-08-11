@@ -1,7 +1,7 @@
 # Hey, folks! <img src="https://raw.githubusercontent.com/anurawat01/anurawat01/master/wave.gif" width="30px">
 
 
-My name is Anubhav Rawat and I'm a third-year student pursuing B.Tech in Information Technology .<br/> 
+My name is Anubhav Rawat and I'm a Final Year Undergrad pursuing B.Tech in Information Technology .<br/> 
 Competitive Programmer || Full Stack Web Developer || Interned as Web_Developer @WorkLinkr
 
 
