@@ -1,8 +1,8 @@
 # Hey, folks! <img src="https://raw.githubusercontent.com/anurawat01/anurawat01/master/wave.gif" width="30px">
 
 
-My name is Anubhav Rawat and I'm a Final Year Undergrad pursuing B.Tech in Information Technology .<br/> 
-Competitive Programmer || Full Stack Web Developer || Interned as Web_Developer @WorkLinkr
+My name is Anubhav Rawat and I have completed B.Tech (UG) in Information Technology Domain.<br/> 
+Problem Solver || Full Stack Web Developer || SWE at Nagarro
 
 
 ## Connect with me:
